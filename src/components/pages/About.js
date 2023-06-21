@@ -27,11 +27,11 @@ const About = () => {
             fontSize={{ md: '1.1rem' }}
           >
             <Text>
-              At GitHub Expert, our goal is to simplify the process of finding
-              and connecting with developers on GitHub. With our intuitive
-              interface and powerful search functionality, you can easily locate
-              specific GitHub profiles and gain instant access to their most
-              recent repositories.
+              At GitExplore, our goal is to simplify the process of finding and
+              connecting with developers on GitHub. With our intuitive interface
+              and powerful search functionality, you can easily locate specific
+              GitHub profiles and gain instant access to their most recent
+              repositories.
             </Text>
             <Text>
               We understand the importance of efficient knowledge sharing and
@@ -44,14 +44,14 @@ const About = () => {
               engaging with developers. Our commitment to privacy and security
               means that your data is handled with the utmost care. We
               prioritize the protection of your personal information and ensure
-              that all interactions on our platform are secure. GitHub Expert is
+              that all interactions on our platform are secure. GitExplore is
               continuously evolving to meet the ever-changing needs of the
               developer community. We value your feedback and suggestions as we
               strive to improve our services and provide you with the best
               possible experience.
             </Text>
             <Text>
-              Join us at GitHub Expert and unlock the vast potential of GitHub.
+              Join us at GitExplore and unlock the vast potential of GitHub.
               Start exploring GitHub profiles and their recent repositories
               today to connect, collaborate, and contribute to the world of
               software development.

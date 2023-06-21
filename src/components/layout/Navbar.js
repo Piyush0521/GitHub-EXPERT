@@ -11,7 +11,7 @@ const Navbar = () => {
           <HStack>
             <FaGithub color="white" size="25" />
             <Text as="b" fontSize="lg" color="whiteAlpha.900">
-              Github EXPERT
+              GitExplore
             </Text>
           </HStack>
           <Spacer />
